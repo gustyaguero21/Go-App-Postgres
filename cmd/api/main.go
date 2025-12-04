@@ -2,7 +2,7 @@ package main
 
 import (
 	"go-app-postgres/cmd/config"
-	"go-app-postgres/server/router"
+	"go-app-postgres/internal/router"
 )
 
 func main() {
